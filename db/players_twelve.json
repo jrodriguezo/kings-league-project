@@ -1,5 +1,18 @@
 [
   {
+    "role": "Medio",
+    "firstName": "Javier",
+    "lastName": "Espinosa",
+    "image": "placeholder.png",
+    "name": "Javier Espinosa",
+    "team": {
+      "id": "porcinos-fc",
+      "name": "Porcinos FC",
+      "image": "https://api.kingsleague.dev/static/logos/porcinos-fc.svg",
+      "imageWhite": "https://api.kingsleague.dev/static/logos/porcinos-fc-inverse.svg"
+    }
+  },
+  {
     "role": "Delantero",
     "firstName": "David",
     "lastName": "Acedo",
@@ -65,7 +78,7 @@
     }
   },
   {
-    "role": "Medio",
+    "role": "Defensa",
     "firstName": "Enigma",
     "lastName": "",
     "image": "placeholder.png",
@@ -75,19 +88,6 @@
       "name": "XBUYER TEAM",
       "image": "https://api.kingsleague.dev/static/logos/xbuyer.svg",
       "imageWhite": "https://api.kingsleague.dev/static/logos/xbuyer-inverse.svg"
-    }
-  },
-  {
-    "role": "Medio",
-    "firstName": "Javier",
-    "lastName": "Espinosa",
-    "image": "placeholder.png",
-    "name": "Javier Espinosa",
-    "team": {
-      "id": "porcinos-fc",
-      "name": "Porcinos FC",
-      "image": "https://api.kingsleague.dev/static/logos/porcinos-fc.svg",
-      "imageWhite": "https://api.kingsleague.dev/static/logos/porcinos-fc-inverse.svg"
     }
   },
   {
